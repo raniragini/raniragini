@@ -1,6 +1,6 @@
 ![logo](https://github.com/raniragini/raniragini/blob/main/Black%20and%20White%20Illustrative%20Linkedin%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Ragini</h1>
-<h3 align="center">A aspreing Data Analyst </h3>
+<h3 align="center">A aspering Data Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raniragini&label=Profile%20views&color=0e75b6&style=flat" alt="raniragini" /> </p>
 
