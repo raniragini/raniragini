@@ -23,8 +23,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raniragini&show_icons=true&locale=en&layout=compact" alt="raniragini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raniragini&show_icons=true&locale=en" alt="raniragini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raniragini&" alt="raniragini" /></p>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raniragini&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniragini&layout=compact&theme=tokyonight" height="150"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raniragini&theme=tokyonight" />
+</p>
