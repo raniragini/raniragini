@@ -1,6 +1,6 @@
 ![logo](https://github.com/raniragini/raniragini/blob/main/Black%20and%20White%20Illustrative%20Linkedin%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Ragini</h1>
-<h3 align="center">A Aspering Data Analyst </h3>
+<h3 align="center">A Aspiring Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raniragini&label=Profile%20views&color=0e75b6&style=flat" alt="raniragini" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **theraniragini@gmail.com**
 
-- ⚡ Fun fact **I think i am Mature😉**
+- ⚡ Fun fact **I think i'm Mature😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raniragini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raniragini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ragini rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragini rani" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@raniragini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@raniragini" height="30" width="40" /></a>
 </p>
 
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raniragini&show_icons=true&locale=en" alt="raniragini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raniragini&" alt="raniragini" /></p>
+
+
