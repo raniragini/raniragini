@@ -1,4 +1,4 @@
-![logo](https://github.com/raniragini/raniragini/blob/main/Black%20and%20White%20Illustrative%20Linkedin%20Banner%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Ragini</h1>
 <h3 align="center">A Aspiring Data Analyst</h3>
 
